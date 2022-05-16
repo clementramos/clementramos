@@ -7,7 +7,7 @@
 
 - 📈 Built multiple websites
 
-- ❤️ I love writing JavaScript, and building fun experiments on type-level
+- ❤️ I love writing in JavaScript and PHP
 
 - 💬 Ask me about anything <a href="clementramos.com/contact">Here</a>
   
