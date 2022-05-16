@@ -9,7 +9,7 @@
 
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](clementramos.com/contact)
+- 💬 Ask me about anything <a href="clementramos.com/contact">Here</a>
   
 </p>
 
