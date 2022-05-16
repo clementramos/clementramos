@@ -1,4 +1,4 @@
-<p align="center"><a href="clementramos.com"><img width="80%" src="./assets/avatar.png" /></a></p>
+<p align="center"><a href="clementramos.com"><img width="50%" src="./assests/avatar.png" /></a></p>
 
 <br />
 
