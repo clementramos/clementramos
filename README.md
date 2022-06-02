@@ -1,5 +1,5 @@
 <p align="right"><a href="clementramos.com"><img align="right" width="20%" src="avatar-removebg-preview.png" /></a></p>
-<p align="left">I'm a self-taught passionate Full Stack developer from France 🇫🇷
+<p align="left">I'm a passionate student Full Stack developer from France 🇫🇷
 
 **About me**
 
