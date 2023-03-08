@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clementramos&repo=Portfolio&theme=buefy" />
 </a>
 <a href="https://github.com/clementramos/ECF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clementramos&repo=ECF&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clementramos&repo=Terrablock&theme=buefy" />
 </a>
 
 <br />
