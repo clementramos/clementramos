@@ -1,5 +1,5 @@
 <p align="right"><a href="clementramos.com"><img align="right" width="20%" src="1avatar-removebg-preview.png" /></a></p>
-<p align="left">I'm a passionate student Full Stack developer from France 🇫🇷</p>
+<p align="left">I'm a Full Stack developer from France 🇫🇷</p>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
